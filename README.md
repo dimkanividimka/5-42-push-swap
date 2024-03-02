@@ -14,6 +14,8 @@ on the standard output the smallest program, made of Push swap language instruct
 - if the sequence is already sorted in ascending order - it won't return anything!
 ![gif1](https://github.com/dimkanividimka/5-42-push-swap/assets/124629748/e4fcd08b-59f8-4604-abba-470d1d03ce3b)
 
+# With visualizer:
+![gif3](https://github.com/dimkanividimka/5-42-push-swap/assets/124629748/3ab4cf16-2501-4999-a81b-cac12abbc018)
 
 # Sources:
 - I used an algorithm described in [this guide](https://medium.com/@ayogun/push-swap-c1f5d2d41e97).
