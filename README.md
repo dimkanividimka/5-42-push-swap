@@ -12,6 +12,8 @@ on the standard output the smallest program, made of Push swap language instruct
 - make
 - run with bash: ./push_swap *your numbers separated by space*
 - if the sequence is already sorted in ascending order - it won't return anything!
+![gif1](https://github.com/dimkanividimka/5-42-push-swap/assets/124629748/e4fcd08b-59f8-4604-abba-470d1d03ce3b)
+
 
 # Sources:
 - I used an algorithm described in [this guide](https://medium.com/@ayogun/push-swap-c1f5d2d41e97).
